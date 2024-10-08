@@ -5,6 +5,8 @@ LangSmith will be used to trace, debug and monitor our application. And LangChai
 #### Instalation
 ```bash
 pip install -U langchain langchain-openai langchain langchain_community
+# also
+pip install wikipedia
 ```
 #### Environment Variables
 ```bash
