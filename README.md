@@ -2,7 +2,7 @@
 
 ## Setting up environment
 LangSmith will be used to trace, debug and monitor our application. And LangChain will be used to handle the LLM models.
-#### Instalation
+#### Installation
 ```bash
 pip install -U langchain langchain-openai langchain langchain_community
 # also
